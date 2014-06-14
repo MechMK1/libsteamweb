@@ -9,7 +9,7 @@ namespace MechMK1.SteamWeb
 	/// <summary>
 	/// Structure containing basic friend info.
 	/// </summary>
-	class Friend : SteamIdentifiable
+	public class Friend : SteamIdentifiable
 	{
 		public bool Blocked { get; set; }
 		public DateTime FriendSince { get; set; }

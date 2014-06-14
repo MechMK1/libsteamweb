@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MechMK1.SteamWeb
 {
-	class Group : SteamIdentifiable
+	public class Group : SteamIdentifiable
 	{
 		public bool InviteOnly { get; set; }
 	}

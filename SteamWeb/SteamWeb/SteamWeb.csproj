@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="API.cs" />
+    <Compile Include="ApiInstance.cs" />
     <Compile Include="Friend.cs" />
     <Compile Include="Group.cs" />
     <Compile Include="GroupInfo.cs" />
